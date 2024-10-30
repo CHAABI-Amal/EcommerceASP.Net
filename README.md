@@ -10,5 +10,5 @@ Shopping Cart: Add books to the shopping cart and proceed to checkout.
 
 💻 Tech Stack
 Frontend: HTML/CSS/JavaScript 
-Backend: ASP.NET Core for RESTful APIs and backend logic
+Backend: ASP.NET Core
 Database: SQL Server 
