@@ -1,0 +1,52 @@
+﻿@page
+@model AuthentificationModel
+@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<h4>Sign Up</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            @if (ViewData["Login.Email"] != null)
+            {
+                <div class="alert alert-danger">@ViewData["Login.Email"]</div>
+            }
+            @if (ViewData["ConfirmPassword"] != null)
+            {
+                <div class="alert alert-danger">@ViewData["ConfirmPassword"]</div>
+            }
+
+            <div class="form-group">
+                <label asp-for="Login.Email" class="control-label"></label>
+                <input asp-for="Login.Email" class="form-control" />
+                <span asp-validation-for="Login.Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Login.Password" class="control-label"></label>
+                <input asp-for="Login.Password" type="password" class="form-control" />
+                <span asp-validation-for="Login.Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ConfirmPassword" class="control-label"></label>
+                <input asp-for="ConfirmPassword" type="password" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Sign up" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

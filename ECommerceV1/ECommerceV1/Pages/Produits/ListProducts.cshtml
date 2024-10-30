@@ -1,0 +1,86 @@
+﻿@page "{searchString?}"
+@model ECommerceV1.Pages.Produits.UserModel
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+
+    <link rel="stylesheet" href="~/css/mystyle.css">
+    <link rel="stylesheet" href="~/css/Slide.css">
+</head>
+
+<body>
+    <!-- Slider Section -->
+    <div class="slider">
+        <figure>
+            <div class="slide">
+                <img src="@Url.Content("~/Images/Slide/11.jpg")" />
+                <div class="slide-caption">Welcome to Our Book Store</div>
+            </div>
+            <div class="slide">
+                <img src="@Url.Content("~/Images/Slide/12.jpg")" />
+                <div class="slide-caption">Explore a World of Knowledge</div>
+            </div>
+            <div class="slide">
+                <img src="@Url.Content("~/Images/Slide/14.png")" />
+                <div class="slide-caption">Find Your Next Adventure</div>
+            </div>
+            <div class="slide">
+                <img src="@Url.Content("~/Images/Slide/15.png")" />
+                <div class="slide-caption">Books for Every Reader</div>
+            </div>
+        </figure>
+    </div>
+
+
+    <!-- Filter and Search Section -->
+    <div class="filter-container">
+        <h2>All Products</h2>
+        <form method="get" class="filter-form">
+            <div class="form-group">
+                <label asp-for="CategorieId">Category:</label>
+                <select asp-for="CategorieId" asp-items="Model.Categories">
+                    <option value="">All</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Title:</label>
+                <input type="text" asp-for="SearchString" />
+            </div>
+            <input type="submit" value="Filter" class="btn-primary" />
+        </form>
+    </div>
+
+    <!-- Product Carousel Section -->
+    <div class="carousel-container">
+        <button class="carousel-btn prev-btn">❮</button>
+        <div class="product-carousel">
+            @foreach (var item in Model.Produit)
+            {
+                <div class="product-card">
+                    <img src="@Url.Content($"~/{item.ImageUrl}")" alt="Product Image" />
+                    <h4 class="product-name">@Html.DisplayFor(modelItem => item.Nom)</h4>
+                    <p class="product-price">@Html.DisplayFor(modelItem => item.Prix) DH</p>
+
+                    <!-- Add to Cart Form -->
+                    <form method="post" asp-page-handler="AddToCart">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <label for="quantity-@item.Id">Quantity:</label>
+                        <input type="number" name="quantity" id="quantity-@item.Id" value="1" min="1" max="@item.QuantiteStock" class="form-control" />
+                        <input type="submit" value="Add to Cart" class="btn-primary" />
+                    </form>
+                </div>
+            }
+        </div>
+        <button class="carousel-btn next-btn">❯</button>
+    </div>
+
+</body>
+</html>

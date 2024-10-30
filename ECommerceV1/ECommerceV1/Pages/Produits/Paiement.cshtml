@@ -1,0 +1,26 @@
+﻿@page
+@model ECommerceV1.Pages.Produits.PaiementModel
+
+<h1>Paiement</h1>
+
+<p>Vous êtes prêt à effectuer votre paiement.</p>
+
+<!-- Logique de paiement -->
+<form method="post">
+    <div class="form-group">
+        <label for="CardNumber">Numéro de Carte</label>
+        <input type="text" id="CardNumber" name="CardNumber" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label for="ExpirationDate">Date d'Expiration</label>
+        <input type="text" id="ExpirationDate" name="ExpirationDate" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label for="CVC">CVC</label>
+        <input type="text" id="CVC" name="CVC" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Effectuer le Paiement</button>
+</form>

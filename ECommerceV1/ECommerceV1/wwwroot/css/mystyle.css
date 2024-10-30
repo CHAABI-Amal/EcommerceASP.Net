@@ -1,0 +1,311 @@
+﻿/* Style de base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+}
+
+/* Conteneur principal */
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* En-tête des produits */
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Section de filtre en ligne */
+.filter-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.filter-form {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+    .filter-form .form-group {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .filter-form input[type="text"],
+    .filter-form select,
+    .filter-form .btn-primary {
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    .filter-form .btn-primary {
+        background-color: #333;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+
+        .filter-form .btn-primary:hover {
+            background-color: #555;
+        }
+
+/* Style du carrousel */
+.carousel-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.product-carousel {
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    gap: 20px;
+    padding: 20px 0;
+}
+
+.product-card {
+    min-width: 200px;
+    background-color: #fff;
+    border: none;
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    .product-card img {
+        width: 100%;
+        height: auto;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+    .product-card h4 {
+        font-size: 16px;
+        font-weight: 600;
+        color: #333;
+        margin: 5px 0;
+    }
+
+    .product-card .price {
+        font-size: 18px;
+        color: #333;
+        font-weight: bold;
+        margin: 5px 0;
+    }
+
+    .product-card .btn-primary {
+        padding: 10px;
+        background-color: #fff;
+        color: #333;
+        font-weight: bold;
+        border: 1px solid #333;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 100%;
+    }
+
+        .product-card .btn-primary:hover {
+            background-color: #333;
+            color: #fff;
+        }
+
+/* Boutons de navigation du carrousel */
+.carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.prev-btn {
+    left: -25px;
+}
+
+.next-btn {
+    right: -25px;
+}
+
+.carousel-btn:hover {
+    background-color: #555;
+}
+
+/* Styles pour masquer la scrollbar */
+.product-carousel::-webkit-scrollbar {
+    display: none;
+}
+/* Limite la taille des cartes de produit */
+.product-card {
+    width: 220px; /* Taille fixe pour chaque carte de produit */
+    max-width: 100%;
+    flex: 0 0 auto;
+    background-color: #fff;
+    border: none;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease; /* Animation pour hover */
+}
+
+    .product-card:hover {
+        transform: scale(1.05); /* Effet d'agrandissement léger au survol */
+    }
+
+    .product-card img {
+        width: 100%;
+        height: auto;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+
+.product-name {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    margin: 5px 0;
+}
+
+.product-price {
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.product-card .btn-primary {
+    padding: 10px;
+    background-color: #fff;
+    color: #333;
+    font-weight: bold;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+    .product-card .btn-primary:hover {
+        background-color: #333;
+        color: #fff;
+    }
+/* Styles pour le carrousel */
+.slider {
+    position: relative; /* Position relative pour les enfants positionnés */
+    width: 100%; /* Prend toute la largeur */
+    height: 500px; /* Ajustez la hauteur selon vos besoins */
+    overflow: hidden; /* Masque le débordement */
+}
+
+figure {
+    position: relative;
+    left: 0;
+    width: 400%; /* Largeur pour 4 slides */
+    animation: slide 10s infinite; /* Animation de défilement */
+}
+
+.slide {
+    position: relative;
+    width: 25%; /* Chaque slide prend 25% de la largeur */
+    float: left;
+}
+
+    .slide img {
+        display: block; /* Assure que l'image ne laisse pas d'espace en bas */
+        width: 100%; /* Assure que l'image s'étend sur toute la largeur */
+        height: 500px; /* Hauteur fixe pour chaque image */
+    }
+
+/* Style des captions */
+.slide-caption {
+    position: absolute; /* Positionnement absolu */
+    top: 50%; /* Centre verticalement */
+    left: 50%; /* Centre horizontalement */
+    transform: translate(-50%, -50%); /* Ajuste le positionnement */
+    color: white; /* Couleur du texte */
+    background-color: rgba(0, 0, 0, 0.6); /* Fond semi-transparent pour la lisibilité */
+    padding: 15px; /* Espacement autour du texte */
+    border-radius: 5px; /* Coins arrondis */
+    text-align: center; /* Centre le texte */
+    font-size: 1.5em; /* Taille de la police */
+    font-family: 'Georgia', serif; /* Une police élégante */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Ombre pour ajouter de la profondeur */
+}
+
+/* Animation de défilement */
+@keyframes slide {
+    0% {
+        left: 0;
+    }
+
+    10% {
+        left: 0;
+    }
+
+    20% {
+        left: -100%;
+    }
+
+    30% {
+        left: -100%;
+    }
+
+    40% {
+        left: -200%;
+    }
+
+    50% {
+        left: -200%;
+    }
+
+    55% {
+        left: -300%;
+    }
+
+    65% {
+        left: -300%;
+    }
+
+    66% {
+        left: -200%;
+    }
+
+    74% {
+        left: -200%;
+    }
+
+    75% {
+        left: -100%;
+    }
+
+    85% {
+        left: -100%;
+    }
+
+    90% {
+        left: 0;
+    }
+
+    100% {
+        left: 0;
+    }
+}

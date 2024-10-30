@@ -1,0 +1,59 @@
+﻿@page
+@model ECommerceV1.Pages.Produits.CartModel
+@{
+    ViewData["Title"] = "Shopping Cart";
+}
+
+<h1>Your Cart</h1>
+
+@if (Model.CartItems.Count == 0)
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <div class="row">
+        @foreach (var item in Model.CartItems)
+        {
+            <div class="col-md-4">
+                <div class="card">
+                    @if (!string.IsNullOrEmpty(item.Produit.ImageUrl))
+                    {
+                        <img src="@Url.Content($"~/{item.Produit.ImageUrl}")" alt="Product Image" width="100%" />
+                    }
+
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Produit.Nom</h5>
+                        <p class="card-text">@item.Produit.Description</p>
+                        <p class="card-text"><strong>Price:</strong> @item.Produit.Prix DH</p>
+
+                        <!-- Quantity Update Form -->
+                        <form method="post" asp-page-handler="UpdateQuantity">
+                            <input type="hidden" name="produitId" value="@item.Id" />
+
+                            <!-- Quantity Input with Auto Submit on Change -->
+                            <label for="quantity-@item.Id">Quantity:</label>
+                            <input type="number" name="quantity" id="quantity-@item.Id" value="@item.Quantity" min="1" max="@item.Produit.QuantiteStock" class="form-control" style="width: 70px;" onchange="this.form.submit()" />
+
+                        </form>
+
+                        <p class="card-text"><strong>Total Price:</strong> @(item.Quantity * item.Produit.Prix) DH</p>
+
+                        <!-- Remove from Cart Button -->
+                        <form method="post" asp-page-handler="RemoveFromCart">
+                            <input type="hidden" name="produitId" value="@item.Id" />
+                            <button type="submit" class="btn btn-danger">Remove from Cart</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="checkout">
+        <p><strong>Subtotal:</strong> @Model.SubTotal DH</p>
+        <form method="post" asp-page-handler="Checkout">
+            <button type="submit" class="btn btn-primary">Checkout (@Model.SubTotal DH)</button>
+        </form>
+    </div>
+}

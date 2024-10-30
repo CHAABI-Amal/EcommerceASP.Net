@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECommerceV1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ECommerceV1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\122.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\122.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\28e02e29-9c6e-43b6-b5ae-a3ec75200ebb.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\28e02e29-9c6e-43b6-b5ae-a3ec75200ebb.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\2bfdda21-91bc-4c33-b2cc-cdd09141398e.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\2bfdda21-91bc-4c33-b2cc-cdd09141398e.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\2d1642eb-9fd5-46a9-ad46-681758720c20.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\2d1642eb-9fd5-46a9-ad46-681758720c20.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\387a40c8-3fe3-4214-b78e-9992a7048a0d.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\387a40c8-3fe3-4214-b78e-9992a7048a0d.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\46b9ba06-8a13-4871-9016-f28f7a4c5e0b.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\46b9ba06-8a13-4871-9016-f28f7a4c5e0b.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\4ad67ec6-9081-4082-81be-59289a78f7f2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Produits\\4ad67ec6-9081-4082-81be-59289a78f7f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\56fee4ea-7cec-47b2-82d3-afa7f9cce37b.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\56fee4ea-7cec-47b2-82d3-afa7f9cce37b.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\6236b334-fa23-4d40-b9e9-5ca1e1314a90.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\6236b334-fa23-4d40-b9e9-5ca1e1314a90.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\72ed0875-e1a9-4ae6-a501-2ebe9fe20e93.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\72ed0875-e1a9-4ae6-a501-2ebe9fe20e93.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\7ece0a3b-2243-439f-b6bc-9a4b55bd0e8e.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\7ece0a3b-2243-439f-b6bc-9a4b55bd0e8e.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\87649850-f467-488f-9339-c17d22e90415.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\87649850-f467-488f-9339-c17d22e90415.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\89b1d156-a1ea-411d-9f1e-20985dd5272b.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\89b1d156-a1ea-411d-9f1e-20985dd5272b.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\8f696f8f-372e-4846-8bc6-412f9f2233d1.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\8f696f8f-372e-4846-8bc6-412f9f2233d1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\90e819b4-bb9c-49c3-a10b-ff873accc373.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\90e819b4-bb9c-49c3-a10b-ff873accc373.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\99462b88-ebad-4043-9679-d71c54c8e7e5.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\99462b88-ebad-4043-9679-d71c54c8e7e5.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\9ab1f521-8de1-4f77-87c8-a8b7beeeb388.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\9ab1f521-8de1-4f77-87c8-a8b7beeeb388.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\Picture12.jpg",
+      "PackagePath": "staticwebassets\\Images\\Produits\\Picture12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\a1.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\a1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\a411a5c2-ebb0-467e-830b-7618fd1dae09.jpg",
+      "PackagePath": "staticwebassets\\Images\\Produits\\a411a5c2-ebb0-467e-830b-7618fd1dae09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\a46e3824-30b5-4de2-851d-2fc74aa7155e.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\a46e3824-30b5-4de2-851d-2fc74aa7155e.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\acfaf8aa-44c9-4053-8fa0-09dae010893c.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\acfaf8aa-44c9-4053-8fa0-09dae010893c.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\b4.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\b4.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\b57fcda6-d905-475e-b2d9-dfdf458af562.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\b57fcda6-d905-475e-b2d9-dfdf458af562.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\b6.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\b6.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\b7.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\b7.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\b7ccb116-6881-42da-ac30-5a84d9ff2126.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\b7ccb116-6881-42da-ac30-5a84d9ff2126.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\bba08759-d216-4e31-8d02-b35eefc6bd85.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\bba08759-d216-4e31-8d02-b35eefc6bd85.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\bf1cbcf3-f491-468c-a7b1-3ce112c1f99f.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\bf1cbcf3-f491-468c-a7b1-3ce112c1f99f.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\c01bd4fa-5f50-4351-8c7c-74de3b24afc4.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\c01bd4fa-5f50-4351-8c7c-74de3b24afc4.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\c7fc6565-1a14-4d87-ae49-de48cf37110d.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\c7fc6565-1a14-4d87-ae49-de48cf37110d.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\cac8e379-2d08-4aba-b4f5-2e7fee3fb6af.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\cac8e379-2d08-4aba-b4f5-2e7fee3fb6af.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\cb583d10-3b31-420a-bda9-4b1b06ae13d7.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\cb583d10-3b31-420a-bda9-4b1b06ae13d7.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\cf94b160-70bd-4fd5-85b7-56d39386fdc0.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\cf94b160-70bd-4fd5-85b7-56d39386fdc0.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\d01eef5f-7d71-47b9-99c9-b4cea99f6498.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\d01eef5f-7d71-47b9-99c9-b4cea99f6498.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\ed34fe8c-5f0f-41cd-8dc9-001f10a67e03.png",
+      "PackagePath": "staticwebassets\\Images\\Produits\\ed34fe8c-5f0f-41cd-8dc9-001f10a67e03.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Produits\\fd763769-2448-4303-bea7-7617221cf9d8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Produits\\fd763769-2448-4303-bea7-7617221cf9d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Slide\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Slide\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Slide\\11.jpg",
+      "PackagePath": "staticwebassets\\Images\\Slide\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Slide\\12.jpg",
+      "PackagePath": "staticwebassets\\Images\\Slide\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Slide\\14.png",
+      "PackagePath": "staticwebassets\\Images\\Slide\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Slide\\15.png",
+      "PackagePath": "staticwebassets\\Images\\Slide\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Slide\\16.png",
+      "PackagePath": "staticwebassets\\Images\\Slide\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Slide\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Slide\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Slide\\3.png",
+      "PackagePath": "staticwebassets\\Images\\Slide\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Slide\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Slide\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\Slide\\5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Slide\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\Images\\img.png",
+      "PackagePath": "staticwebassets\\Images\\img.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\css\\Slide.css",
+      "PackagePath": "staticwebassets\\css\\Slide.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\css\\cartStyle.css",
+      "PackagePath": "staticwebassets\\css\\cartStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\css\\mystyle.css",
+      "PackagePath": "staticwebassets\\css\\mystyle.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\ECommerceV1\\ECommerceV1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerceV1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ECommerceV1.props",
+      "PackagePath": "build\\ECommerceV1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ECommerceV1.props",
+      "PackagePath": "buildMultiTargeting\\ECommerceV1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ECommerceV1.props",
+      "PackagePath": "buildTransitive\\ECommerceV1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

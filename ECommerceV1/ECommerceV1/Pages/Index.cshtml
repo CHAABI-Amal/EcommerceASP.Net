@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<h2>Enter a Name</h2>
+<form method="post">
+    <input type="text" asp-for="NewName" placeholder="Enter your name" />
+    <input type="submit" value="Add" />
+</form>
+
+<h2>Stored Usernames:</h2>
+<ul>
+    @{
+        var usernames = Model.GetUsernamesFromSession();
+        foreach (var username in usernames)
+        {
+            <li>@username</li> <!-- Display each saved name -->
+        }
+    }
+</ul>
