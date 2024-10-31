@@ -4,15 +4,15 @@ Bienvenue dans l'application Book Store ! Cette application permet aux utilisate
 Ce document fournit une vue d'ensemble du projet ainsi que des instructions pour le configurer et l'utiliser.
 
 # 📜 Fonctionnalités
-Parcourir les livres : Explorez une liste de livres avec descriptions détaillées et images de couverture.
-Fonctionnalité de recherche : Recherchez des livres par titre, auteur, ou genre.
-Détails des livres : Consultez des informations complètes pour chaque livre, incluant l'auteur, le genre, la note et un résumé.
-Panier d'achat : Ajoutez des livres au panier et procédez au paiement.
+- Parcourir les livres : Explorez une liste de livres avec descriptions détaillées et images de couverture.
+- Fonctionnalité de recherche : Recherchez des livres par titre, auteur, ou genre.
+- Détails des livres : Consultez des informations complètes pour chaque livre, incluant l'auteur, le genre, la note et un résumé.
+- Panier d'achat : Ajoutez des livres au panier et procédez au paiement.
 
 # 💻 Technologies Utilisées
-Frontend : HTML / CSS / JavaScript
-Backend : ASP.NET Core
-Base de données : SQL Server
+- Frontend : HTML / CSS / JavaScript
+- Backend : ASP.NET Core
+- Base de données : SQL Server
 
 # 📄 Captures d'écran et Aperçus
 1. Page d'accueil
@@ -42,9 +42,11 @@ Clonez le dépôt :
 `git clone https://github.com/CHAABI-Amal/EcommerceASP.Net.git`
 
 Installez les dépendances backend et frontend :
-Backend : Naviguez vers le dossier ASP.NET et lancez le serveur.
-Frontend : Ouvrez le dossier HTML/CSS/JavaScript et exécutez le fichier index.html.
-Configurez la base de données avec SQL Server et exécutez le script SQL inclus pour initialiser les tables et données de test.
+* Backend : Naviguez vers le dossier ASP.NET et lancez le serveur.
+
+- Frontend : Ouvrez le dossier HTML/CSS/JavaScript et exécutez le fichier index.html.
+
+- Configurez la base de données avec SQL Server et exécutez le script SQL inclus pour initialiser les tables et données de test.
 
 
 
